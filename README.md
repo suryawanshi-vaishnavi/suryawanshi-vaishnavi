@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/suryawanshi-vaishnavi/suryawanshi-vaishnavi/blob/main/oding.jpg" alt="Banner Image">
+<img align="center" src="https://github.com/suryawanshi-vaishnavi/suryawanshi-vaishnavi/blob/main/logo.jpeg" alt="Banner Image">
 <h1 align="center">Hi 👋, I'm Suryawanshi Vaishnavi:)</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
