@@ -1,3 +1,6 @@
+<div style="text-align: center;">
+  ![logo](https://github.com/suryawanshi-vaishnavi/suryawanshi-vaishnavi/blob/main/oding.mp4)
+</div>
 <h1 align="center">Hi 👋, I'm Suryawanshi Vaishnavi:)</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
